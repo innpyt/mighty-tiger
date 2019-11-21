@@ -6,7 +6,7 @@
     "title": "Alexander Schmidt",
     "tagline": "Frontend Developer",
     "profile_img": "images/avatar.png",
-    "bg": "light",
+    "bg": "dark",
     "has_nav": true,
     "has_social": true
   },
