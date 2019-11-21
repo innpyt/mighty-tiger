@@ -2,7 +2,8 @@
 title: Blog
 menus:
   main:
-    title: Blog
+    title: Projects
     weight: 2
 template: blog
 ---
+
