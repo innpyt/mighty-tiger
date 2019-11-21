@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Projects
 menus:
   main:
     title: Projects
