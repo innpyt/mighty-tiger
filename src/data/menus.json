@@ -1,14 +1,3 @@
 {
-  "main": [
-    {
-      "identifier": "Main",
-      "title": "Test",
-      "url": "#"
-    },
-    {
-      "identifier": "Main2",
-      "title": "Test2",
-      "url": "#"
-    }
-  ]
+  "main": []
 }
